@@ -1,3 +1,12 @@
+/*
+Nome, cognome e matricola: Cael Kyler Padilla | 307931
+Esercitazione_1_IO Exercise2
+
+Nota dello studente: sono consapevole del fatto che il codice è commentato passo per passo e potrebbe risultare troppo;
+per scopi didattici, ed essendo i primi codici nel linguaggio cpp, preferisco spiegarmi ogni passaggio che faccio
+anche per aiutarmi ad ottimizzare il codice in una forma più corto ed efficiente.
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
